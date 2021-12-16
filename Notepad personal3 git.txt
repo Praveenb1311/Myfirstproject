@@ -16,6 +16,11 @@ git config --global user.name praveen- Before pushing we need to configure user 
 
 3 steps to follow to push the code
 
-1. Add files
-2. Commit
-3. Push
+1. Add files- git add filename(notepad)
+2. Commit-git commit -m "added git documentation"
+3. Push-git push https://github.com/Praveenb1311/Myfirstproject.git(rep url)
+
+Origin main-(To select main branches)
+
+
+git status - To check
