@@ -1,0 +1,21 @@
+Code repositry
+Code versioning software
+
+Push - It uploads local code to remote repo
+Git Pull- Downloads latest code from remote repo to local machine
+
+
+SCM -
+clone-copy(Git clone remote rep url)
+
+dir(Direcory)-Listing the directory and files and folders
+
+CD - Change directory
+
+git config --global user.name praveen- Before pushing we need to configure user name and email initially
+
+3 steps to follow to push the code
+
+1. Add files
+2. Commit
+3. Push
